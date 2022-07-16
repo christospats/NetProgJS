@@ -1,0 +1,13 @@
+#wrapper {
+    margin: auto;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+#buttons{
+    text-align: center;
+}
